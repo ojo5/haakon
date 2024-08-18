@@ -1,3 +1,4 @@
+#x86_64
 #PURPOSE: Simple program that exits and returns a
 # status code back to the Linux kernel
 #

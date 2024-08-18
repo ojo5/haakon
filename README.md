@@ -1,6 +1,6 @@
 # Haakon Disassembler Project
 ## Overview
-This project is an x86_64 disassembler written entirely in assembly language. The primary goal of this project is to deepen my understanding of assembly language and its applications in cybersecurity. By working directly with ARM architecture and instruction sets, this project will serve as both a learning tool and a practical exercise in reverse engineering.
+This project is an x86_64 disassembler written entirely in assembly language. The primary goal of this project is to deepen my understanding of assembly language and its applications in cybersecurity. By working directly with x86_64 architecture and instruction sets, this project will serve as both a learning tool and a practical exercise in reverse engineering.
 
 Goals
 * Learn x86_64 Assembly: Gain hands-on experience with x86_64 assembly language by writing a complete disassembler.
